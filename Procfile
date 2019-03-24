@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT jinzio_1624.wsgi:application
